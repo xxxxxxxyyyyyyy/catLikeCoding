@@ -72,6 +72,7 @@
      <None Include="Assets\CustomRP\Shaders\ShadowCasterPass.hlsl" />
      <None Include="Assets\CustomRP\ShaderLibrary\UnityInput.hlsl" />
      <None Include="Assets\CustomRP\Shaders\UnlitPass.hlsl" />
+     <None Include="Assets\CustomRP\ShaderLibrary\GI.hlsl" />
      <None Include="Assets\CustomRP\Shaders\LitPass.hlsl" />
      <None Include="Assets\CustomRP\Shaders\Unlit.shader" />
      <None Include="Assets\CustomRP\ShaderLibrary\Shadows.hlsl" />

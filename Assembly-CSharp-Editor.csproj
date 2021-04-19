@@ -59,29 +59,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CustomRP\Editor\CustomShaderGUI.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceAbout.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceBuildInTransformation.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceBuildInVariables.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceEditorWindow.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceErrorDebug.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceGLSL.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceGPU.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceLighting.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceMath.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceMiscellaneous.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceOther.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferencePipline.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferencePlatformDifferences.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferencePragma.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferencePredefinedMacros.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceProperties.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceRenderState.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceSearch.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceSemantics.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceSetup.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceTags.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceTransformation.cs" />
-     <Compile Include="Assets\taecgLibrary\ShaderReference\Editor\ShaderReferenceUtil.cs" />
  <Reference Include="UnityEditor.TestRunner">
  <HintPath>D:/UnityProjects/URPTest/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>
